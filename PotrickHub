@@ -1,1 +1,5 @@
-
+if game.PlaceId == 11545598432 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mrdoge2313/Charlie/main/anime%20fighting"))()
+elseif game.PlaceId == 8396586868 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mrdoge2313/Charlie/main/a%20one%20piece%20game"))()
+end
